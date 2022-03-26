@@ -1,2 +1,2 @@
-# house_prices_kaggle
-My simple model submission to Kaggle's House Prices - Advanced Regression Techniques
+# House Prices - Advanced Regression Techniques
+My relatively simple model submission to Kaggle's House Prices - Advanced Regression Techniques with a score of 0.15601, landing me in the top ~2000s. This competition can be found [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). I have yet to refine and hypertune my parameters, which should improve my score considerably.
